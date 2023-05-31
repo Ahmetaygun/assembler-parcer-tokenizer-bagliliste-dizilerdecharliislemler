@@ -1,0 +1,9 @@
+ATM AX, 50
+ATM BX, 30
+ATM CX, 40
+ATM DX, 40
+BOL CX, 3
+ATM [0], 10
+TOP [0], AX
+TOP [0], BX
+TOP [0], CX
